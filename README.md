@@ -1,7 +1,40 @@
-# 🚀 About Me:
-Hi, I'm Guilherme Moreira, a 26-year-old software engineer who made the bold decision to drop dentistry school to pursue my true passion for web development. I've transitioned into a role where I can fully leverage my skills to build innovative and impactful software solutions.
+<a href="https://gmoreira.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Guilherme Moreira. Frontend-focused full-stack engineer: TypeScript, React, React Native. Remote from Goiânia, Brazil, open to full-time and contract roles." src="assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+I build web and mobile products end to end, from the data model to the last pixel. Today I lead the frontend at ActivateStaff ([@TimeSaved](https://github.com/TimeSaved)), with the web app and the iOS and Android apps in my hands. Before that I spent two and a half years building the React app TV studios use at Beam Dynamics.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I left dentistry school for software, and I have shipped products for teams in the US and Canada since 2021.
+
+### Selected work
+
+<p>
+  <a href="https://gmoreira.dev/work/activate-staff/"><img src="assets/activate-staff.jpg" width="32%" alt="ActivateStaff product film: the recruiter's weekly schedule on the web, with the worker's phone app beside it."></a>
+  <a href="https://gmoreira.dev/work/beam-dynamics/"><img src="assets/beam-dynamics.jpg" width="32%" alt="Beam Dynamics product film: the incidents board with a ticket open for a camera that stopped transmitting."></a>
+  <a href="https://gmoreira.dev/work/wynd/"><img src="assets/wynd.jpg" width="32%" alt="Illustrations of the two WYND apps: a phone wired to a home router, and two phones sending money between currencies."></a>
+</p>
+
+- **[ActivateStaff](https://gmoreira.dev/work/activate-staff/)** · Lead frontend engineer · 2024 to now<br>Scheduling, timekeeping and invoicing for staffing agencies, on web, iOS and Android.
+- **[Beam Dynamics](https://gmoreira.dev/work/beam-dynamics/)** · Full-stack, frontend focus · 2021 to 2024<br>The asset management app TV studios run on: data tables, real-time dashboards, ticketing.
+- **[WYND](https://gmoreira.dev/work/wynd/)** · React Native engineer · 2021<br>Two React Native apps launched in six months: a telecom customer app and a money transfer app.
+
+**Stack** &nbsp; TypeScript · React · React Native · Next.js · Node.js · Tailwind CSS · Redux · React Query
+
+<details>
+<summary>Everything else I have shipped with</summary>
+<br>
+Expo, Vite, styled-components, Cypress, Auth0, Mixpanel, Docker, GitHub Actions, Three.js, Mantine, Apollo GraphQL
+</details>
+
+<p>
+  <samp>
+    <a href="https://gmoreira.dev">gmoreira.dev</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/guilherme-moreira-costa">LinkedIn</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:gmoreira.costa.dev@gmail.com">gmoreira.costa.dev@gmail.com</a>
+  </samp>
+</p>
