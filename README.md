@@ -12,9 +12,8 @@ I left dentistry school for software, and I have shipped products for teams in t
 ### Selected work
 
 <p>
-  <a href="https://gmoreira.dev/work/activate-staff/"><img src="assets/activate-staff.jpg" width="32%" alt="ActivateStaff product film: the recruiter's weekly schedule on the web, with the worker's phone app beside it."></a>
-  <a href="https://gmoreira.dev/work/beam-dynamics/"><img src="assets/beam-dynamics.jpg" width="32%" alt="Beam Dynamics product film: the incidents board with a ticket open for a camera that stopped transmitting."></a>
-  <a href="https://gmoreira.dev/work/wynd/"><img src="assets/wynd.jpg" width="32%" alt="Illustrations of the two WYND apps: a phone wired to a home router, and two phones sending money between currencies."></a>
+  <a href="https://gmoreira.dev/work/activate-staff/"><img src="assets/activate-staff.jpg" width="49%" alt="ActivateStaff product film: the recruiter's weekly schedule on the web, with the worker's phone app beside it."></a>
+  <a href="https://gmoreira.dev/work/beam-dynamics/"><img src="assets/beam-dynamics.jpg" width="49%" alt="Beam Dynamics product film: the incidents board with a ticket open for a camera that stopped transmitting."></a>
 </p>
 
 - **[ActivateStaff](https://gmoreira.dev/work/activate-staff/)** · Lead frontend engineer · 2024 to now<br>Scheduling, timekeeping and invoicing for staffing agencies, on web, iOS and Android.
